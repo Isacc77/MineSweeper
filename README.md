@@ -3,11 +3,11 @@
 
 ### Main purpose:
 
-Write a small game in C language. The object of the project is students who are beginning to learn C language.
+Write a small game in the C language. The object of this project is students who are beginning to learn C language.
 
 ### Principle:
 
-* 1. Use 2D array to set the coordinates of the "bomb" to be cleared.
+* 1. Use a 2D array to set the coordinates of the "bomb" to be cleared.
 
 * 2. Use the random function to randomly set the location of the "bomb".
 
